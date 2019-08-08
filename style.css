@@ -1,0 +1,15 @@
+.container{
+	border:4px groove orange;
+	border-radius: 5px;
+	position: absolute;
+	text-align: center;
+	font-family: jokerman;
+	color:tomato;
+	font-weight: bold;
+	left: 40%;
+	padding: 25px;
+}
+h1{
+	font-family: Algerian;
+	text-decoration: underline;
+}
